@@ -1,16 +1,16 @@
 @font-face {
-    font-family: 'open_sanslight';
-    src: url('../fonts/open_sans_light/open-sans-light-webfont.eot');
-    src: url('../fonts/open_sans_light/open-sans-light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/open_sans_light/open-sans-light-webfont.woff2') format('woff2'),
-         url('../fonts/open_sans_light/open-sans-light-webfont.woff') format('woff'),
-         url('../fonts/open_sans_light/open-sans-light-webfont.ttf') format('truetype'),
-         url('../fonts/open_sans_light/open-sans-light-webfont.svg#open_sanslight') format('svg');
+    font-family: 'open sanslight';
+    src: url('../fonts/open_sans_light/opensans-light-webfont.eot');
+    src: url('../fonts/open_sans_light/opensans-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/open_sans_light/opensans-light-webfont.woff2') format('woff2'),
+         url('../fonts/open_sans_light/opensans-light-webfont.woff') format('woff'),
+         url('../fonts/open_sans_light/opensans-light-webfont.ttf') format('truetype'),
+         url('../fonts/open_sans_light/opensans-light-webfont.svg#open_sanslight') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: 'open_sanslight';
+    font-family: 'open sanslight';
     src: url('../fonts/open_sans_light/opensans-lightitalic-webfont.eot');
     src: url('../fonts/open_sans_light/opensans-lightitalic-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/open_sans_light/opensans-lightitalic-webfont.woff2') format('woff2'),
@@ -23,22 +23,21 @@
 }
 
 @font-face {
-    font-family: 'open_sansextrabold';
-    src: url('../fonts/open_sans_extrabold/open-sans-extrabold-webfont.eot');
-    src: url('../fonts/open_sans_extrabold/open-sans-extrabold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/open_sans_extrabold/open-sans-extrabold-webfont.woff2') format('woff2'),
-         url('../fonts/open_sans_extrabold/open-sans-extrabold-webfont.woff') format('woff'),
-         url('../fonts/open_sans_extrabold/open-sans-extrabold-webfont.ttf') format('truetype'),
-         url('../fonts/open_sans_extrabold/open-sans-extrabold-webfont.svg#open_sansextrabold') format('svg');
+    font-family: 'open sansextrabold';
+    src: url('../fonts/open_sans_extrabold/opensans-extrabold-webfont.eot');
+    src: url('../fonts/open_sans_extrabold/opensans-extrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/open_sans_extrabold/opensans-extrabold-webfont.woff2') format('woff2'),
+         url('../fonts/open_sans_extrabold/opensans-extrabold-webfont.woff') format('woff'),
+         url('../fonts/open_sans_extrabold/opensans-extrabold-webfont.ttf') format('truetype'),
+         url('../fonts/open_sans_extrabold/opensans-extrabold-webfont.svg#open_sansextrabold') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
-    font-family: 'open_sansextrabold';
+    font-family: 'open sansextrabold';
     src: url('../fonts/open_sans_extrabold/opensans-extrabolditalic-webfont.eot');
-    src: local('☺'),
-         url('../fonts/open_sans_extrabold/opensans-extrabolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('../fonts/open_sans_extrabold/opensans-extrabolditalic-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/open_sans_extrabold/opensans-extrabolditalic-webfont.woff2') format('woff2'),
          url('../fonts/open_sans_extrabold/opensans-extrabolditalic-webfont.woff') format('woff'),
          url('../fonts/open_sans_extrabold/opensans-extrabolditalic-webfont.ttf') format('truetype'),
@@ -49,7 +48,7 @@
 }
 
 @font-face {
-    font-family: 'league_gothic';
+    font-family: 'league gothic';
     src: url('../fonts/league_gotic/leaguegothic-italic-webfont.eot');
     src: url('../fonts/league_gotic/leaguegothic-italic-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/league_gotic/leaguegothic-italic-webfont.woff2') format('woff2'),
@@ -61,10 +60,9 @@
 
 }
 @font-face {
-    font-family: 'league_gothic';
+    font-family: 'league gothic';
     src: url('../fonts/league_gotic/leaguegothic-regular-webfont.eot');
-    src: local('☺'),
-        url('../fonts/league_gotic/leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    src: url('../fonts/league_gotic/leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/league_gotic/leaguegothic-regular-webfont.woff2') format('woff2'),
          url('../fonts/league_gotic/leaguegothic-regular-webfont.woff') format('woff'),
          url('../fonts/league_gotic/leaguegothic-regular-webfont.ttf') format('truetype'),
