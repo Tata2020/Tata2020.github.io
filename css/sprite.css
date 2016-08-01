@@ -1,0 +1,66 @@
+.brend__link--blabong {
+	background: url('../img/sprite_brends.png') no-repeat -7px -22px;
+	width: 69px;
+	height: 64px;
+}
+.brend__link--blabong:hover {
+	background: url('../img/sprite_brends.png') no-repeat -7px -100px;
+	width: 69px;
+	height: 64px;
+}
+.brend__link--gg {
+	background: url('../img/sprite_brends.png') no-repeat -141px -22px;
+	width: 72px;
+	height: 64px;
+}
+.brend__link--gg:hover {
+	background: url('../img/sprite_brends.png') no-repeat -141px -100px;
+	width: 72px;
+	height: 64px;
+}
+.brend__link--tree {
+	background: url('../img/sprite_brends.png') no-repeat -277px -22px;
+	width: 65px;
+	height: 65px;
+}
+.brend__link--tree:hover {
+	background: url('../img/sprite_brends.png') no-repeat -277px -100px;
+	width: 65px;
+	height: 65px;
+}
+.brend__link--awsm {
+	background: url('../img/sprite_brends.png') no-repeat -417px -23px;
+	width: 50px;
+	height: 63px;
+}
+.brend__link--awsm:hover {
+	background: url('../img/sprite_brends.png') no-repeat -417px -101px;
+	width: 50px;
+	height: 63px;
+}
+.brend__link--rvca {
+	background: url('../img/sprite_brends.png') no-repeat -535px -44px;
+	width: 103px;
+	height: 21px;
+}
+.brend__link--rvca:hover {
+	background: url('../img/sprite_brends.png') no-repeat -535px -122px;
+	width: 103px;
+	height: 21px;
+}
+.brend__link--vonzipper {
+	background: url('../img/sprite_brends.png') no-repeat -704px -24px;
+	width: 78px;
+	height: 61px;
+}
+.brend__link--vonzipper:hover {
+	background: url('../img/sprite_brends.png') no-repeat -704px -102px;
+	width: 78px;
+	height: 61px;
+}
+
+
+
+
+
+
