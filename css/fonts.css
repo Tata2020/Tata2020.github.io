@@ -36,7 +36,7 @@
 }
 @font-face {
     font-family: 'open_sansextrabold';
-    src: url('../fonts/open_sans_extrabold/opensans-extrabolditalic-webfont.eot');
+    src: url('../fonts/open_sans_extrabold/opensans-extrabolditalic-webfont.eot') format('embedded-opentype');
     src: url('../fonts/open_sans_extrabold/opensans-extrabolditalic-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/open_sans_extrabold/opensans-extrabolditalic-webfont.woff2') format('woff2'),
          url('../fonts/open_sans_extrabold/opensans-extrabolditalic-webfont.woff') format('woff'),
