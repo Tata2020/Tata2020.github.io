@@ -112,6 +112,7 @@ body {
 	background: url('../img/play_2.png') no-repeat center;
 	border: 1px solid transparent;
 	border-radius: 50%;
+	behavior: url(border-radius.htc);
 }
 .button__img:hover {
 	border: 1px solid #634670;
@@ -170,6 +171,7 @@ body {
 	width: 16px;
     height: 16px;
     border-radius: 100%;
+    behavior: url(border-radius.htc);
     border: 1px solid transparent;
 	background-color: rgba(43, 34, 49, 0.3);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#4C2B2231,endColorstr=#4C2B2231)";
@@ -302,6 +304,7 @@ body {
 	width: 16px;
     height: 16px;
     border-radius: 100%;
+    behavior: url(border-radius.htc);
     border: 1px solid #e5e5e5;
     background: rgba(255,255,255,1);
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#FFFFFFFF, endColorstr=#FFFFFFFF)";
@@ -352,6 +355,7 @@ body {
 	width: 50px;
 	height: 50px;
 	border-radius: 50%;
+	behavior: url(border-radius.htc);
 	background: url(../img/bgd_ul.png) no-repeat 0 0;
 	-webkit-box-shadow: 2px 2px 0px 0px rgba(255,255,255,1);
     -moz-box-shadow: 2px 2px 0px 0px rgba(255,255,255,1);
