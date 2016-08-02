@@ -958,10 +958,12 @@
 	.menu__item--header:active  {
 		border-bottom: 2px solid #edbfff;
 		background-color: rgba(54, 41, 62, 1);
+		-ms-filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#FF36293E', endColorstr='#FF36293E');
 	}
 	.menu__list--header:hover {
 		height: auto;
 		background-color: rgba(54, 41, 62, 0.7);
+		-ms-filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#B236293E', endColorstr='#B236293E');
 		border: 1px solid rgb(5, 17, 22);
 		box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
 		border-radius: 12px;
@@ -1363,10 +1365,13 @@
 	.menu__item--header:active  {
 		border-bottom: 2px solid #edbfff;
 		background-color: rgba(54, 41, 62, 1);
+		-ms-filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#FF36293E', endColorstr='#FF36293E');
 	}
 	.menu__list--header:hover {
 		height: auto;
 		background-color: rgba(54, 41, 62, 0.7);
+		-ms-filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#B236293E', endColorstr='#B236293E');
+
 		border: 1px solid rgb(5, 17, 22);
 		box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
 		border-radius: 12px;
