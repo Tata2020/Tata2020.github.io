@@ -209,8 +209,12 @@
 	    position: absolute;
 	    left: 393px;
 	    top: 371px;
+	    border-bottom: 20px solid transparent;
+	    border-left: 20px solid #cecece;
 	    border-bottom: 19px solid transparent;
-	    border-right: 19px solid #fff;
+	    border-left: 19px solid #fff;
+
+
 	}
 	.referens__content {
 		margin-left: 9px;
