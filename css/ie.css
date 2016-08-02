@@ -1,0 +1,74 @@
+/*---------960px---------*/
+@media (min-width: 960px)  {
+	.blurbs__title--first:before {
+		content: " ";
+		position: absolute;
+		top: 9px;
+		left: -55px;
+		width: 30px;
+		height: 31px;
+		background-image: url(../img/icons.png);
+		background-repeat:  no-repeat;
+		background-position:  -291px -372px;
+	}
+	.blurbs__title--second:before {
+		content: " ";
+		position: absolute;
+		top: 13px;
+		left: -56px;
+		width: 33px;
+		height: 28px;
+		background-image: url(../img/icons.png);
+		background-repeat:  no-repeat;
+		background-position:  -333px -372px;
+	}
+	.blurbs__title--third:before {
+		content: " ";
+		position: absolute;
+		top: 12px;
+		left: -54px;
+		width: 29px;
+		height: 29px;
+		background-image: url(../img/icons.png);
+		background-repeat:  no-repeat;
+		background-position:  -376px -372px;
+	}
+}
+
+/*---------768px------------------------------------------------------------*/
+@media screen and (min-width: 768px) and (max-width: 959px) {
+	.blurbs__title:before {
+		content: " ";
+		position: absolute;
+		width:  31px;
+		height: 31px;
+		background-image: url(../img/icons.png);
+		background-repeat:  no-repeat;
+		background-position:  -291px -372px;
+	}
+}
+
+/*---------480px---------------------------------------------*/
+@media screen and (min-width: 480px) and (max-width: 767px) {
+	.blurbs__title:before {
+		content: " ";
+		position: absolute;
+		width:  31px;
+		height: 31px;
+		background-image: url(../img/icons.png);
+		background-repeat:  no-repeat;
+		background-position:  -291px -372px;
+	}
+}
+/*---------320px--------------------------------------------------*/
+@media screen and (max-width: 479px) {
+	.blurbs__title:before {
+		content: " ";
+		position: absolute;
+		width:  31px;
+		height: 31px;
+		background-image: url(../img/icons.png);
+		background-repeat:  no-repeat;
+		background-position:  -291px -372px;
+	}
+}
