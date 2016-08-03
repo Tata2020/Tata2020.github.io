@@ -112,7 +112,7 @@ body {
 	background: url('../img/play_2.png') no-repeat center;
 	border: 1px solid transparent;
 	border-radius: 50%;
-	-ms-behavior: url('../pie/PIE.htc');
+	-ms-behavior: url(../pie/PIE.htc);
 }
 .button__img:hover {
 	border: 1px solid #634670;
@@ -175,7 +175,7 @@ body {
 	background-color: rgba(43, 34, 49, 0.3);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#4C2B2231,endColorstr=#4C2B2231)";
 	border-radius: 100%;
-    -ms-behavior: url('../pie/PIE.htc');
+    -ms-behavior: url(../pie/PIE.htc);
 }
 .slider__link:active {
 	margin-top: 4px;
@@ -308,7 +308,7 @@ body {
     background: rgba(255,255,255,1);
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#FFFFFFFF, endColorstr=#FFFFFFFF)";
     border-radius: 100%;
-    -ms-behavior: url('../pie/PIE.htc');
+    -ms-behavior: url(../pie/PIE.htc);
 }
 .slider__link--referens:active {
 	margin-top: 2px;
@@ -363,7 +363,7 @@ body {
     -moz-box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.4);
 	box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.4);
 	border-radius: 50%;
-	-ms-behavior: url('../pie/PIE.htc');
+	-ms-behavior: url(../pie/PIE.htc);
 }
 
 .blogs__text {

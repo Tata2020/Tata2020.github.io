@@ -1,3 +1,16 @@
+.blogs__item:before {
+	position: absolute;
+	content: " ";
+	left: -65px;
+	top: 2px;
+	width: 47px;
+	height: 47px;
+	background: url(../img/ul_marker.png) no-repeat -2px -2px;
+	box-shadow: 2px 2px 0px 0px rgba(255,255,255,1);
+    box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.4);
+	border-radius: 50%;
+	-ms-behavior: url(../pie/PIE.htc);
+}
 /*---------960px---------*/
 @media (min-width: 960px)  {
 	.blurbs__title--first:before {
