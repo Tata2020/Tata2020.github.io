@@ -144,7 +144,7 @@ body {
 	display: inline-block;
 	color: #edbfff;
 	text-transform: uppercase;
-	vertical-align: middle;
+	vertical-align: top;
 }
 .slider__text {
 	color: #fff;

@@ -90,7 +90,7 @@
 	}
 	.slider__block .slider__title--hidden {
 		visibility: visible;
-		margin-top: 2px;
+		margin-top: 0px;
 	}
 	.slider__title--violet,
 	.slider__title--hidden {
@@ -332,7 +332,7 @@
 		margin-right: 64px;
 		margin-left: 0px;
 	}
-	.brend__item:nth-child(3) {
+	.brend__item--tree {
 		margin-right: 69px;
 	}
 
@@ -808,7 +808,6 @@
 		margin-right: 0px;
 	}
 	.brend__link--vonzipper {
-		
 		margin-top: 2px;
 	}
 	/*--------block ----*/
@@ -1196,19 +1195,20 @@
 		margin-left: 21px;
 		margin-bottom: 26px;
 	}
-	.brend__item:nth-child(3) {
+	.brend__item--tree {
 		margin-right: 0;
 	}
 	.brend__link--awsm {
 		margin-left: -15px;
 		margin-top: 0px;
 	}
-	.brend__link--rvca {
-		margin-top: 21px;
-	}
 	.brend__item--rvca {
 		margin-left: 23px;
 	}
+	.brend__link--rvca {
+		margin-top: 21px;
+	}
+	
 	.brend__item--vonzipper {
 		margin-left: 23px;
 		margin-right: 0px;
@@ -1393,7 +1393,6 @@
 	}
 	.slider__title--white {
 		font-size: 37px;
-		
 		line-height: 36px;
 		letter-spacing: -0.01em;
 	}
@@ -1575,21 +1574,21 @@
 		margin-left: 0px;
 		margin-bottom: 0px;
 	}
-	.brend__item:nth-child(1) {
+	.brend__item--blabong {
 		margin-left: 24px;
 	}
-	.brend__item:nth-child(2) {
+	.brend__item--gg {
 		margin-left: 56px;
 	}
-	.brend__item:nth-child(3) {
+	.brend__item--tree {
 		margin-top: 60px;
 		margin-left: 33px;
 	}
-	.brend__item:nth-child(4) {
+	.brend__item--awsm {
 		margin-top: 62px;
 		margin-left: 64px;
 	}
-	.brend__item:nth-child(5) {
+	.brend__item--rvca {
 		margin-top: 65px;
 		margin-left: 4px;
 	}

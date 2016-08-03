@@ -112,4 +112,27 @@
 		background-repeat:  no-repeat;
 		background-position:  -89px 0px;
 	}
+	.brend__item:first-child {
+		margin-left: 24px;
+	}
+	.brend__item:first-child + * {
+		margin-left: 56px;
+	}
+	.brend__item:first-child + * + * {
+		margin-top: 60px;
+		margin-left: 33px;
+	}
+	.brend__item:first-child + * + * + * {
+		margin-top: 62px;
+		margin-left: 64px;
+	}
+	.brend__item:first-child + * + * + * + * {
+		margin-top: 65px;
+		margin-left: 4px;
+	}
+	
+	.brend__item:first-child + * + * + * + * + * {
+		margin-top: 46px;
+		margin-left: 56px;
+	}
 }
