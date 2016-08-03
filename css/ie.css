@@ -1,3 +1,17 @@
+.slider__link {
+	display: block;
+	background: url(../img/sprite_markers.png) no-repeat -3px -4px;
+	width: 18px;
+	height: 18px;
+}
+.slider__link:active {
+	margin-top: 4px;
+	margin-left: 4px;
+	background: url('imgs/sprite_markers.png') no-repeat -7px -26px;
+	width: 11px;
+	height: 11px;
+}
+
 .blogs__item:before {
 	position: absolute;
 	content: " ";
@@ -11,6 +25,20 @@
 	border-radius: 50%;
 	-ms-behavior: url(../pie/PIE.htc);
 }
+.slider__link--referens {
+	display: block;
+	background: url(../img/sprite_markers.png) no-repeat -7px -26px;
+	width: 11px;
+	height: 11px;
+}
+.slider__link--referens:active {
+	margin-top: 2px;
+	margin-left: 2px;
+	background: url(../img/sprite_markers.png) no-repeat -7px -42px;
+	width: 12px;
+	height: 13px;
+}
+
 /*---------960px---------*/
 @media (min-width: 960px)  {
 	.blurbs__title--first:before {

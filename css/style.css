@@ -170,7 +170,6 @@ body {
 	display: block;
 	width: 16px;
     height: 16px;
-    
     border: 1px solid transparent;
 	background-color: rgba(43, 34, 49, 0.3);
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#4C2B2231,endColorstr=#4C2B2231)";
