@@ -953,12 +953,14 @@
 		line-height: 29px;
 	}
 	.menu__item--header:active  {
+		z-index: 1000;
 		border-bottom: 2px solid #edbfff;
 		background-color: rgba(54, 41, 62, 1);
 		-ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#FF36293E, endColorstr=#FF36293E)";
 	}
 	.menu__list--header:hover {
 		height: auto;
+		z-index: 1000;
 		background-color: rgba(54, 41, 62, 0.7);
 		-ms-filter: "progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr=#B236293E, endColorstr=#B236293E)";
 		border: 1px solid rgb(5, 17, 22);
